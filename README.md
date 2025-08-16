@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akash Kumar  
 
-🎓 B.Tech 3rd Year | Cloud Computing Student  
+🎓 B.Tech final Year | Cloud Computing Student  
 ☁️ Passionate about **AWS, DevOps, and Cloud Solutions**  
 🚀 Exploring **Kubernetes, CI/CD, Docker, and Serverless**  
 
@@ -8,8 +8,8 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/your-instagram-id)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/akash-kumar-7588762aa/)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/akashkumar)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/kumar-akash05)  
 
 ---
