@@ -54,12 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumar-akash05" width="48%" />
-  <img src="https://stats.dooboo.io/api/github-trophies?login=kumar-akash05" width="48%" />
-</p>
 
 
 ## 🚀 DevOps Activity Graph
