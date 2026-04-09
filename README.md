@@ -1,43 +1,78 @@
-# Hi 👋, I'm Akash Kumar  
+# Hi 👋, I'm Akash Kumar
 
-🎓 B.Tech final Year | Cloud Computing Student  
-☁️ Passionate about **AWS, DevOps, and Cloud Solutions**  
-🚀 Exploring **Kubernetes, CI/CD, Docker, and Serverless**  
+🎓 Final Year B.Tech Student | ☁️ Cloud Computing
+🚀 Aspiring **Cloud & DevOps Engineer**
 
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/akash-kumar-7588762aa/)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/akashkumarbipin)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/kumar-akash05)  
+💡 Passionate about building scalable cloud solutions and automating infrastructure using modern DevOps tools.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🚀 About Me
 
-- **Cloud Platforms**: AWS (EC2, S3, Lambda, IAM, VPC, CloudWatch)  
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions  
-- **Programming**: Python, C++, JavaScript  
-- **Other**: Linux, Git, REST APIs  
-
-
-
-## 🏆 GitHub Trophies  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumar-akash05&theme=onedark&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
+* ☁️ Skilled in **AWS Cloud Services & Infrastructure**
+* 🔧 Hands-on with **CI/CD Pipelines, Docker & Kubernetes**
+* 🧠 Currently learning **Advanced Kubernetes & DevOps Practices**
+* 🎯 Goal: Crack **Cloud/DevOps roles in top companies**
 
 ---
 
-## 📊 GitHub Stats  
+## 🌐 Connect with Me
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar-akash05&show_icons=true&theme=tokyonight)  
-
+* 💼 LinkedIn: https://www.linkedin.com/in/akash-kumar-7588762aa/
+* 💻 GitHub: https://github.com/kumar-akash05
+* 📸 Instagram: https://www.instagram.com/akashkumarbipin
 
 ---
 
-## 🎯 Goals for 2025  
+## 🛠️ Tech Stack
 
-- ✅ Master **AWS Solutions Architect** concepts  
-- ✅ Build more **Cloud + DevOps projects**  
-- ✅ Crack **cloud-focused placements & internships**  
+### ☁️ Cloud
+
+* AWS (EC2, S3, Lambda, IAM, VPC, CloudWatch)
+
+### ⚙️ DevOps
+
+* Docker, Kubernetes, Jenkins, GitHub Actions
+
+### 💻 Programming
+
+* Python, C, Java
+
+### 🧰 Tools & Others
+
+* Linux, Git
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 CI/CD Pipeline using Jenkins
+
+* Integrated GitHub with Jenkins for automation
+* Built and deployed Dockerized application on AWS EC2
+
+### 🔹 Wanderlust Travel Blog (DevOps Project)
+
+* Deployed using **AWS EKS + Docker + Jenkins + ArgoCD (GitOps)**
+* Implemented scalable cloud infrastructure
+
+### 🔹 Scalable AWS Deployment
+
+* Used EC2, S3, Auto Scaling & Load Balancer
+* Designed high-availability architecture
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🎯 Goals
+
+* 🚀 Master **AWS & System Design**
+* ⚙️ Build real-world **DevOps projects**
+* 💼 Land a **Cloud/DevOps Engineer role**
+
+---
+
+⭐ *“Consistency + Projects = Placement”*
