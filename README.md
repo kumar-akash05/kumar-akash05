@@ -61,13 +61,6 @@
   <img src="https://stats.dooboo.io/api/github-trophies?login=kumar-akash05" width="48%" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumar-akash05&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
 
 ## 🚀 DevOps Activity Graph
 
