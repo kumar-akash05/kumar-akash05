@@ -62,14 +62,9 @@
 * Designed high-availability architecture
 
 ---
+![GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=kumar-akash05)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar-akash05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-akash05&layout=compact&theme=tokyonight&hide_border=true)
-
----
+![Top Languages](https://stats.dooboo.io/api/github-trophies?login=kumar-akash05)
 
 ## 🔥 GitHub Streak
 
