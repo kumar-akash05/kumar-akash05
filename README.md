@@ -57,11 +57,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-akash05&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-akash05&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumar-akash05" width="48%" />
+  <img src="https://stats.dooboo.io/api/github-trophies?login=kumar-akash05" width="48%" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
