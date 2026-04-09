@@ -65,6 +65,16 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar-akash05\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-akash05\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=86400)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kumar-akash05\&theme=tokyonight\&hide_border=true)
+
 ---
 
 ## 🎯 Goals
