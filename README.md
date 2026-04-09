@@ -21,15 +21,7 @@
 - **Programming**: Python, C++, JavaScript  
 - **Other**: Linux, Git, REST APIs  
 
----
 
-## 📂 Featured Projects  
-
-- 🔹 [**CI/CD Pipeline with Jenkins**](https://github.com/your-repo) – Automated pipeline using Jenkins, Docker & Kubernetes  
-- 🔹 [**AWS Cost Optimization**](https://github.com/your-repo) – Optimized EC2 & Lambda costs with monitoring  
-- 🔹 [**File Storage System on AWS**](https://github.com/your-repo) – S3-based file storage with IAM policies  
-
----
 
 ## 🏆 GitHub Trophies  
 
