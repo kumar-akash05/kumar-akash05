@@ -24,23 +24,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ DevOps Tools & Technologies
 
-### ☁️ Cloud
-
-* AWS (EC2, S3, Lambda, IAM, VPC, CloudWatch)
-
-### ⚙️ DevOps
-
-* Docker, Kubernetes, Jenkins, GitHub Actions
-
-### 💻 Programming
-
-* Python, C, Java
-
-### 🧰 Tools & Others
-
-* Linux, Git
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge\&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge\&logo=terraform)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 
 ---
 
@@ -62,13 +53,29 @@
 * Designed high-availability architecture
 
 ---
-![GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=kumar-akash05)
 
-![Top Languages](https://stats.dooboo.io/api/github-trophies?login=kumar-akash05)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-akash05&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-akash05&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kumar-akash05\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kumar-akash05&theme=radical&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🚀 DevOps Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar-akash05&theme=react-dark&hide_border=true" width="90%"/>
+</p>
 
 ---
 
